@@ -21,6 +21,6 @@ func (s Square) Area() (result uint) {
 }
 
 func (s Square) Perimeter() (result uint) {
-	result = s.a * 2
+	result = s.a * 4
 	return
 }
